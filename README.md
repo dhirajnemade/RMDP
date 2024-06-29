@@ -1,5 +1,5 @@
-**#RMDP (Recording Maintenance & Data Processing)
-**
+**#RMDP (Recording Maintenance & Data Processing)**
+
 **Overview**
 RMDP (Recording Maintenance & Data Processing) is a software solution developed in 2016 for managing company accounts, balance sheets, and bookkeeping tasks. It is built using C# for the frontend and SQL for the backend database management.
 
